@@ -1,0 +1,11 @@
+# Ignore NetBeans builds and private settings
+nbproject/private/
+build/
+dist/
+
+# Compilations files
+*.class
+
+# Temporary files / logs
+*.log
+*.tmp
